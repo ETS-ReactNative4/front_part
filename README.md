@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-https://reverent-yalow-4f160a.netlify.com/her
+https://reverent-yalow-4f160a.netlify.com/
 https://back-end-project-notes.herokuapp.com/notes
 
 Below you will find some information on how to perform common tasks.<br>
