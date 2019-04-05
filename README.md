@@ -1,3 +1,9 @@
+Web application that allows users to create, read, edit and delete notes. (React/Redux, Netlify, Heroku, Node.js, SQLite)
+Used Redux for Axios requests 
+Built out a CRUD API on a server side
+Netlify for client side, Heroku for server
+Added data persistence using SQLite 
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 https://reverent-yalow-4f160a.netlify.com/
